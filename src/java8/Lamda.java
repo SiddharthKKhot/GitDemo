@@ -16,5 +16,8 @@ public class Lamda {
 		System.out.println(" american guy pushed");
 		
 		System.out.println(" siddharth");
+		
+		
+		System.out.println(" nanu america");
 	}
 }
