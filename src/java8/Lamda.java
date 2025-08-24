@@ -8,5 +8,8 @@ public class Lamda {
     
 		Function<String, Integer> function = (String s)-> s.length();
 		System.out.println(function.apply("siddharth"));
+		
+		
+		System.out.println("hello java");
 	}
 }
