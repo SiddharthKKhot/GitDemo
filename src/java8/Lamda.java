@@ -22,5 +22,10 @@ public class Lamda {
  		
  		System.out.println(" nanu asian archtect");
  		
+ 		
+ 		System.out.println(" nanu amrica develop madide"
+ 				+ "");
+ 		
+ 		
 	}
 }
