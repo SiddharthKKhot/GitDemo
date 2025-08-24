@@ -27,5 +27,8 @@ public class Lamda {
  				+ "");
  		
  		
+ 		System.out.println(" nanu indian huduga");
+ 		
+ 		
 	}
 }
