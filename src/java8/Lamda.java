@@ -18,6 +18,9 @@ public class Lamda {
 		System.out.println(" siddharth");
 		
 		
-		System.out.println(" nanu america");
+ 		System.out.println(" nanu america");
+ 		
+ 		System.out.println(" nanu asian archtect");
+ 		
 	}
 }
