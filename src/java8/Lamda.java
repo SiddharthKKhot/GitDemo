@@ -11,5 +11,8 @@ public class Lamda {
 		
 		
 		System.out.println("hello java");
+		
+		
+		System.out.println(" american guy pushed");
 	}
 }
